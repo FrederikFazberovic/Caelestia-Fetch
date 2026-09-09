@@ -8,6 +8,8 @@ Unfortunately its not dynamic, maybe ill work on that later.
 ![](/preview/screenshot.png)
 
 # Instalation
+Instalation is only for config, it will delete aditional folder with unused logos. 
+
 ```
 git clone https://github.com/FrederikFazberovic/Caelestia-Fetch.git
 cd Caelestia-Fetch/
