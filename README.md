@@ -16,3 +16,11 @@ mv caelestia.jsonc ~/.config/fastfetch/caelestia && mv fastfetch_logo.txt ~/.con
 cd .. 
 rm -rf Caelestia-Fetch/
 ```
+
+# Logos
+For those, who only want ascii logos, its in [aditional folder](https://github.com/FrederikFazberovic/Caelestia-Fetch/tree/main/aditional).
+I recommend looking at them with cat.
+```
+cat path/to/small.txt
+```
+Replace path/to with actual path.
