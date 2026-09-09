@@ -19,8 +19,9 @@ rm -rf Caelestia-Fetch/
 
 # Logos
 For those, who only want ascii logos, its in [aditional folder](https://github.com/FrederikFazberovic/Caelestia-Fetch/tree/main/aditional).
-I recommend looking at them with cat.
-```
-cat path/to/small.txt
-```
-Replace path/to with actual path.
+
+### Screenshots
+<img width="795" height="712" alt="image" src="https://github.com/user-attachments/assets/728b0eeb-488b-4784-ab17-bb484c8c9575" />  
+  
+  
+<img width="337" height="231" alt="image" src="https://github.com/user-attachments/assets/144d26da-07c6-4a01-a394-130d671bcae4" />
