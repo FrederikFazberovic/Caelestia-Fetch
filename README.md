@@ -24,7 +24,7 @@ cd Caelestia-Fetch
   
 copy folder to   ```~/.config/fastfetch ```  
 
-### DO NOT COPY FILES FROM FOLDERS, COPY ENTIRE FOLDERS  
+### DO NOT COPY FILES FROM FOLDERS, COPY ENTIRE FOLDERS!!!  
 
 # Dynamic logos
 Install script for dynamic logos with
@@ -39,10 +39,10 @@ Change /path/to with actual path and fastfetch_logo with logo, you want to use.
   
 There are 2 modes,
 ``` --mode half ``` and ``` --mode full ```.  
-``` --mode half ``` makes it so only upper half of caelestia will dynamically change, ``` --mode full ``` makes it so whole logo changes color  
-``` --mode half ``` [preview](https://github.com/FrederikFazberovic/Caelestia-Fetch/blob/main/preview/big-dynamic.png)  
+``` --mode half ``` makes it so only upper half of caelestia will dynamically change, ``` --mode full ``` makes it so whole logo changes color.  
+``` --mode half ``` [preview](https://github.com/FrederikFazberovic/Caelestia-Fetch/blob/main/preview/big-dynamic.png).  
 # Logos
 For those, who only want ASCII logos, its in [aditional folder](https://github.com/FrederikFazberovic/Caelestia-Fetch/tree/main/aditional).
 
 ### Screenshots of logos
-They are [here](https://github.com/FrederikFazberovic/Caelestia-Fetch/tree/main/aditional/preview)
+They are [here](https://github.com/FrederikFazberovic/Caelestia-Fetch/tree/main/aditional/preview).
