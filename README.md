@@ -2,15 +2,32 @@
 
 Its fastfetch config for [Caelestia Dots](https://github.com/caelestia-dots/shell).  
 Its dynamic and more configs coming soon!  
-Inspired by some [Fastfetch examples](https://github.com/fastfetch-cli/fastfetch/tree/dev/presets/examples) (forgot their numbers).
+Inspired by some [Fastfetch examples](https://github.com/fastfetch-cli/fastfetch/tree/dev/presets/examples) (forgot their numbers).  
+
+<details>
+<summary><h2>Screenshots</h2></summary>  
+
+### Big config
+  
+![big](/preview/screenshot.png) 
+
+### Compare between dynamic and hot reload
+
+![compare](/preview/comparason.png)
+  
+### Small config
+  
+![small](/preview/small.png)  
+  
+### Big dynamic  
+  
+![big dynamic](/preview/big-dynamic.png)
+
+</details>
+
 # Acknowledge
 ### Dynamic logos were made with help of Claude Code.
 
-# Screenshot
-
-![](/preview/screenshot.png)
-  
-More screenshots in [preview](https://github.com/FrederikFazberovic/Caelestia-Fetch/tree/main/preview)
 # Installation
 Clone repo with
 ```
@@ -22,11 +39,14 @@ cd to Caelestia Fetch with
 cd Caelestia-Fetch
 ```  
   
-copy folder to   ```~/.config/fastfetch ```  
+copy folder from Caelestia-Fetch to   ```~/.config/fastfetch ```  
 
 ### DO NOT COPY FILES FROM FOLDERS, COPY ENTIRE FOLDERS!!!  
+### Read bellow for dynamic logos or hot reload logos
 
-# Dynamic logos
+<details>
+<summary><h2>Dynamic Logos</h2></summary> 
+
 ### When scheme is changed, it has small delay.
 Install script for dynamic logos with
 ```
@@ -49,6 +69,17 @@ Run
 chmod +x ./uninstall-dynamic-logo.sh
 bash ./uninstall-dynamic-logo.sh
 ```
+
+</details>
+
+<details>
+<summary><h2>Hot Reload Logos</h2></summary> 
+ 
+### This works like fastfetch logos
+To install, you just copy folder with ``hr`` on end to ```~/.config/fastfetch```.
+
+</details>
+
 # Logos
 For those, who only want ASCII logos, its in [aditional folder](https://github.com/FrederikFazberovic/Caelestia-Fetch/tree/main/aditional).
 
