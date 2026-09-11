@@ -43,7 +43,7 @@ copy folder from Caelestia-Fetch to   ```~/.config/fastfetch ```
 
 ### DO NOT COPY FILES FROM FOLDERS, COPY ENTIRE FOLDERS!!!  
 ### Read bellow for dynamic logos or hot reload logos
-
+### I recommend Dynamic Logos, over Hot Reload, because Hot Reload has huge quality loss.
 <details>
 <summary><h2>Dynamic Logos</h2></summary> 
 
