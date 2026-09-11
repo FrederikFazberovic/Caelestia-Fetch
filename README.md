@@ -27,6 +27,7 @@ copy folder to   ```~/.config/fastfetch ```
 ### DO NOT COPY FILES FROM FOLDERS, COPY ENTIRE FOLDERS!!!  
 
 # Dynamic logos
+### When scheme is changed, it has small delay.
 Install script for dynamic logos with
 ```
 bash ./install-dynamic-logo.sh
