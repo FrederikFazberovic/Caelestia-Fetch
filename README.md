@@ -30,6 +30,7 @@ copy folder to   ```~/.config/fastfetch ```
 ### When scheme is changed, it has small delay.
 Install script for dynamic logos with
 ```
+chmod +x ./install-dynamic-logo.sh
 bash ./install-dynamic-logo.sh
 ```
 To enable dynamic effect on certain logo run
