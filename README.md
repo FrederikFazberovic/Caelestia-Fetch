@@ -1,18 +1,17 @@
-# Fastfetch config for caelestia dots
+# Fastfetch config for Caelestia Dots
 
-Its fastfetch config for [caelestia dots](https://github.com/caelestia-dots/shell).  
-Its dynamic!  
-More configs coming soon!
+Its fastfetch config for [Caelestia Dots](https://github.com/caelestia-dots/shell).  
+Its dynamic and more configs coming soon!  
 
 # Acknowledge
-Dynamic logos were made with help of Claude Code.
+### Dynamic logos were made with help of Claude Code.
 
 # Screenshot
 
 ![](/preview/screenshot.png)
   
 More screenshots in [preview](https://github.com/FrederikFazberovic/Caelestia-Fetch/tree/main/preview)
-# Instalation
+# Installation
 Clone repo with
 ```
 git clone https://github.com/FrederikFazberovic/Caelestia-Fetch.git
@@ -28,14 +27,22 @@ copy folder to   ```~/.config/fastfetch ```
 ### DO NOT COPY FILES FROM FOLDERS, COPY ENTIRE FOLDERS  
 
 # Dynamic logos
-Install script for dynamic logos via
+Install script for dynamic logos with
 ```
 bash ./install-dynamic-logo.sh
 ```
-
-
+To enable dynamic effect on certain logo run
+```
+~/.local/bin/fastfetch-logo-colorize "/path/to/fastfetch_logo" --mode half
+```
+Change /path/to with actual path and fastfetch_logo with logo, you want to use.  
+  
+There are 2 modes,
+``` --mode half ``` and ``` --mode full ```.  
+``` --mode half ``` makes it so only upper half of caelestia will dynamically change, ``` --mode full ``` makes it so whole logo changes color  
+``` --mode half ``` [preview](https://github.com/FrederikFazberovic/Caelestia-Fetch/blob/main/preview/big-dynamic.png)  
 # Logos
-For those, who only want ascii logos, its in [aditional folder](https://github.com/FrederikFazberovic/Caelestia-Fetch/tree/main/aditional).
+For those, who only want ASCII logos, its in [aditional folder](https://github.com/FrederikFazberovic/Caelestia-Fetch/tree/main/aditional).
 
 ### Screenshots of logos
 They are [here](https://github.com/FrederikFazberovic/Caelestia-Fetch/tree/main/aditional/preview)
