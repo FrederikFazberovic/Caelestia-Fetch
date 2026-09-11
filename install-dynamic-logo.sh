@@ -55,9 +55,7 @@ PYEOF
 chmod +x "$BIN_DIR/fastfetch-logo-colorize"
 echo "Installed fastfetch-logo-colorize in $BIN_DIR"
 
-# Write Watcher - FIXED: Removed the backslashes from variables
-# because we are using 'BASHEOF' (quoted), which means the shell
-# will NOT expand variables during the write.
+# Write Watcher
 cat <<'BASHEOF' >"$BIN_DIR/fastfetch-theme-watcher"
 #!/usr/bin/env bash
 T="$HOME/.local/state/caelestia/theme/fastfetch"
