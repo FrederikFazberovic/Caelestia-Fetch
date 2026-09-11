@@ -43,6 +43,11 @@ There are 2 modes,
 ``` --mode half ``` and ``` --mode full ```.  
 ``` --mode half ``` makes it so only upper half of caelestia will dynamically change, ``` --mode full ``` makes it so whole logo changes color.  
 ``` --mode half ``` [preview](https://github.com/FrederikFazberovic/Caelestia-Fetch/blob/main/preview/big-dynamic.png).  
+### Uninstalling 
+Run 
+```
+bash ./uninstall-dynamic-logos.sh
+```
 # Logos
 For those, who only want ASCII logos, its in [aditional folder](https://github.com/FrederikFazberovic/Caelestia-Fetch/tree/main/aditional).
 
