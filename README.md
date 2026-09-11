@@ -46,7 +46,8 @@ There are 2 modes,
 ### Uninstalling 
 Run 
 ```
-bash ./uninstall-dynamic-logos.sh
+chmod +x ./uninstall-dynamic-logo.sh
+bash ./uninstall-dynamic-logo.sh
 ```
 # Logos
 For those, who only want ASCII logos, its in [aditional folder](https://github.com/FrederikFazberovic/Caelestia-Fetch/tree/main/aditional).
