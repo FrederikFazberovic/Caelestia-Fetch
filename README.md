@@ -2,7 +2,7 @@
 
 Its fastfetch config for [Caelestia Dots](https://github.com/caelestia-dots/shell).  
 Its dynamic and more configs coming soon!  
-
+Inspired by some [Fastfetch examples](https://github.com/fastfetch-cli/fastfetch/tree/dev/presets/examples) (forgot their numbers).
 # Acknowledge
 ### Dynamic logos were made with help of Claude Code.
 
