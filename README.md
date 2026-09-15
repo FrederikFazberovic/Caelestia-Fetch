@@ -86,8 +86,9 @@ For those, who only want ASCII logos, its in [aditional folder](https://github.c
 ### Screenshots of logos
 They are [here](https://github.com/FrederikFazberovic/Caelestia-Fetch/tree/main/aditional/preview).
   
+# Contributing
+For contributing, check [this](https://github.com/FrederikFazberovic/Caelestia-Fetch/blob/main/CONTRIBUTING.md)
   
   
   
-  
-[something](https://youtu.be/dQw4w9WgXcQ?is=qySV_oJA_PuKJLYL)
+[something cool](https://youtu.be/dQw4w9WgXcQ?is=qySV_oJA_PuKJLYL)
