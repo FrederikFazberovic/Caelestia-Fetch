@@ -15,6 +15,9 @@ Inspired by some [Fastfetch examples](https://github.com/fastfetch-cli/fastfetch
 
 ![compare](/preview/comparason.png)
   
+### Mid config
+![mid](/preview/mid.png)
+
 ### Small config
   
 ![small](/preview/small.png)  
