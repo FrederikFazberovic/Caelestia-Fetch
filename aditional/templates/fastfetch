@@ -1,0 +1,4 @@
+{{ primary.hex }}
+{{ primaryFixedDim.hex }}
+{{ primaryContainer.hex }}
+{{ onPrimaryFixed.hex }}

@@ -74,6 +74,13 @@ chmod +x ./uninstall-dynamic-logo.sh
 bash ./uninstall-dynamic-logo.sh
 ```
 
+### IF IT WONT WORK
+run
+```
+cp -r aditional/templates ~/.config/caelestia
+```
+That should fix it.
+
 </details>
 
 <details>
